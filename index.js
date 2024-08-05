@@ -11,7 +11,7 @@ const REPO_DESCRIPTION =
 const REPO_PRIVATE = true;
 
 // Path to your project directory
-const PROJECT_DIR = "../github-uploader";
+const PROJECT_DIR = "../reposyncer";
 
 async function uploadToGitHub() {
   try {
