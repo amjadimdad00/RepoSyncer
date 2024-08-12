@@ -4,7 +4,7 @@ const path = require("path");
 
 // User inputs
 const GITHUB_USERNAME = "amjadimdad00";
-const GITHUB_TOKEN = "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";
+const GITHUB_TOKEN = "Your GitHub Token Here";
 const REPO_NAME = "RepoSyncer";
 const REPO_DESCRIPTION =
   "A Node.js script to automate the process of uploading a project to GitHub, including repository creation, initialization, and pushing code.";
