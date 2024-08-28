@@ -19,10 +19,10 @@ This project provides a Node.js script designed to streamline the process of upl
 
 1. **Install Dependencies**: Ensure that Node.js and Git are installed. Install the required npm packages using `npm install @octokit/rest simple-git` 📦.
 2. **Configure the Script**: Replace placeholder values in the `uploadToGitHub.js` script with your GitHub username, personal access token, repository name, and other details 🛠️.
-3. **Run the Script**: Execute the script using `node uploadToGitHub.js` to upload your project to GitHub 🚀.
+3. **Run the Script**: Execute script using `node uploadToGitHub.js` to upload your project to GitHub 🚀.
 
 ## Benefits 🌟
 
 - **Efficiency**: Saves time by automating repetitive tasks involved in uploading projects to GitHub ⏱️.
-- **Ease of Use**: Provides a straightforward way to initialize and upload projects with minimal manual intervention 🧩.
-- **Integration**: Easily integrates with existing workflows and can be customized to fit various project needs 🔧.
+- **Ease of Use**: Provides straightforward way to initialize & upload projects with minimal manual intervention 🧩.
+- **Integration**: Easily integrates with existing workflows & can be customized to fit various project needs 🔧.
