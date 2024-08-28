@@ -3,12 +3,11 @@ const fs = require("fs");
 const path = require("path");
 
 // User inputs
-const GITHUB_USERNAME = "Your Github Username";
+const GITHUB_USERNAME = "Github Username";
 const GITHUB_TOKEN = "Your GitHub Token Here";
-const REPO_NAME = "Your Repo Name";
-const REPO_DESCRIPTION =
-  "Your Repo Description";
-const REPO_PRIVATE = "Is Repo Private";
+const REPO_NAME = "Repo Name";
+const REPO_DESCRIPTION = "Repo Description";
+const REPO_PRIVATE = false;
 
 // Path to your project directory
 const PROJECT_DIR = "Path To Your Repo";
